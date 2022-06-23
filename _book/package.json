@@ -20,5 +20,8 @@
     "build": "honkit build",
     "serve": "honkit serve"
   },
-  "homepage": "https://huyenchip.com/ml-interviews-book/"
+  "homepage": "https://huyenchip.com/ml-interviews-book/",
+  "devDependencies": {
+    "honkit": "^3.7.4"
+  }
 }
