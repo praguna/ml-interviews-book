@@ -6,3 +6,4 @@ node_modules/*
 package-lock.json
 _book/gitbook/gitbook-plugin-livereload/*
 _book/ga_tag*
+_book/contents/*
